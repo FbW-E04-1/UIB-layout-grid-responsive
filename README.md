@@ -1,1 +1,2 @@
-# UIB-layout-grid-responsive
+# Automatic grid
+
